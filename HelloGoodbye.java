@@ -1,12 +1,13 @@
 /* ****************************************************************************
  * name: Sanya Ahmed
- * date: March 21, 2024
 ******************************************************************************* */
 
-/** represents a greeting and a goodbye printer */
+/** represents a hello and a goodbye printer */
 public class HelloGoodbye{
     /**
-     * prints greeting and goodbye to the 2 names
+     * prints greeting and goodbye to the names taken from command-line arguments
+     * prints the names for the hello message in same order 
+     * prints the names for the goodbye message in reverse order
      * 
      * @param args sequence of names
      */
