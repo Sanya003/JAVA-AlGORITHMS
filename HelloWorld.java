@@ -1,6 +1,5 @@
 /* **********************************************
  * name: Sanya Ahmed
- * date: March 21, 2024
  ************************************************ */
 /** represents a greeting printer */
 public class HelloWorld {
