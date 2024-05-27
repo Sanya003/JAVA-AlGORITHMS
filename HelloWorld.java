@@ -1,6 +1,3 @@
-/* **********************************************
- * name: Sanya Ahmed
- ************************************************ */
 /** represents a greeting printer */
 public class HelloWorld {
     /**
